@@ -1,0 +1,10 @@
+arxiv
+feedparser
+requests
+openai
+schedule
+python-dotenv
+beautifulsoup4
+lxml
+flask
+flask-cors
